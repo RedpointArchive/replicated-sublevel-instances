@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 10000,
+  "VersionName": "Unversioned",
+  "FriendlyName": "Replicated Sublevel Instances",
+  "Description": "Dynamically instantiate sublevels in multiplayer games. Great for procedurally generated worlds!",
+  "Category": "Networking",
+  "CreatedBy": "Redpoint Games",
+  "CreatedByURL": "https://redpoint.games/",
+  "DocsURL": "https://github.com/RedpointArchive/replicated-sublevel-instances",
+  "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5e2b548a2fa844a9892bd3b2158db028",
+  "SupportURL": "https://github.com/RedpointArchive/replicated-sublevel-instances",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "ReplicatedSublevelInstances",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

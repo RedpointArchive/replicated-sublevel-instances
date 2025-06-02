@@ -1,0 +1,23 @@
+# Exclude build artifacts.
+Binaries/
+Intermediate/
+
+# Exclude packaging artifacts.
+/P-M/
+/P-PR/
+/THP_P-M/
+/THP_P-PR/
+
+# Exclude test artifacts.
+/TestResults.xml
+/CoverageReport-*/
+/CodeCoverageResults.xml
+/LastCoverageResults.log
+/*-CodeCoverageBasePath.txt
+
+# Exclude other files.
+.vs/
+/Engine/
+/P-MR/
+/*.zip
+.uet
